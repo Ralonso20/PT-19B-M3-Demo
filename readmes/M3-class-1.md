@@ -27,7 +27,7 @@ npm tsc --init
 #### Instalacion Prettier y Eslint
 
 ```bash
-npm install --save-dev eslint prettier eslint-config-prettier eslint-plugin-prettier
+npm i -D eslint prettier typescript-eslint eslint-config-prettier eslint-plugin-prettier
 ```
 
 #### Iniciar eslint
