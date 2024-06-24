@@ -1,5 +1,7 @@
 # Configuracion de entorno
 
+**Aclaración**: Los comandos instalan las utilimas versiones de las dependencia, en caso de que se encuentren problemas de compatibilidad se recomienda instalar versiones anteriores a la ultima
+
 ## Links Documentacion
 
 - [Eslint](https://eslint.org/docs/latest/use/getting-started)
