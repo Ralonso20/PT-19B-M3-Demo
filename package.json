@@ -6,9 +6,9 @@
     "start": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write .",
-    "lint": "eslint . --ext .ts",
-    "lint:fix": "eslint . --ext .ts --fix",
-    "fix --format": "prettier --write . && eslint . --ext .ts --fix"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "fix:format": "prettier --write . && lint:fix"
   },
   "keywords": [],
   "author": "",
