@@ -8,3 +8,7 @@
 ## Class 1 TypeScript I
 
 - [Resumen de clase](readmes/M3-class-1.md)
+
+## Class 2 TypeScript 2
+
+- [Resumen de clase](readmes/M3-class-2.md)
