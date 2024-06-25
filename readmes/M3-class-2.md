@@ -1,7 +1,7 @@
 # Links utiles
 - [Información sobre pipes, union u Or operator](https://www.geeksforgeeks.org/what-does-the-mean-of-pipe-symbol-in-typescript/)
 
--[Declaration merging](https://www.typescriptlang.org/docs/handbook/declaration-merging.html)
+- [Declaration merging](https://www.typescriptlang.org/docs/handbook/declaration-merging.html)
 
 # Diferencia Types & Interfaces
 
