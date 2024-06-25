@@ -1,3 +1,8 @@
+# Links utiles
+- [Información sobre pipes, union u Or operator](https://www.geeksforgeeks.org/what-does-the-mean-of-pipe-symbol-in-typescript/)
+
+-[Declaration merging](https://www.typescriptlang.org/docs/handbook/declaration-merging.html)
+
 # Diferencia Types & Interfaces
 
 - Types: Opcion ideal para trabajar con tipos primitivos o complejos, como las uniones e intersecciones.
