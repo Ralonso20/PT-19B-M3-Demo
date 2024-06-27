@@ -1,4 +1,3 @@
-//eslint config
 module.exports = {
   extends: [
     'eslint:recommended',
@@ -16,4 +15,13 @@ module.exports = {
     '@typescript-eslint/no-redeclare': 'off',
     'no-redeclare': 'error',
   },
+  ignorePatterns: [
+    '.eslintrc.js',
+    'node_modules/',
+    'dist',
+    'package.json',
+    'package-lock.json',
+    '.gitignore',
+    '.prettierrc',
+  ],
 };
