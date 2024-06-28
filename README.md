@@ -12,3 +12,7 @@
 ## Class 2 TypeScript 2
 
 - [Resumen de clase](readmes/M3-class-2.md)
+
+## Class 3 Express
+
+- [Resumen de clase](readmes/M3-class-3.md)
