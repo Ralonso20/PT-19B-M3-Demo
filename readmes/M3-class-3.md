@@ -61,3 +61,4 @@ npm install --save-dev typescript @types/express @types/node nodemon ts-node
 
 - [Express documentacion](https://expressjs.com/es/)
 - [NPM sitio de dependencias](https://www.npmjs.com/)
+- [PNPM Gestor de dependencias alternativa a NPM](https://pnpm.io/es/)
