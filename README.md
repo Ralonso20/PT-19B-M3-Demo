@@ -1,5 +1,7 @@
 # Cohorte PT20b - Modulo 3
 
+ACLARACIÓN: En este repositorio cada clase tiene su respectiva rama con los ejemplos vistos en clase o el avance en general.
+
 ## TypeScript
 
 - [TypeScript - Documentación Oficial](https://www.typescriptlang.org/)
