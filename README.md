@@ -20,4 +20,10 @@ ACLARACIÓN: En este repositorio cada clase tiene su respectiva rama con los eje
 - [Resumen de clase](readmes/M3-class-3.md)
 
 Los alumnos de la cohorte PT20b Marcelo Robin y Jesús García crearon este script para la facilitar la creacion de un entorno configurado:
+
 - [Script para iniciar un proyecto pre configurado](https://github.com/Synergy2Devs/netepScript)
+
+## class 4 Fundamentos SQL
+
+- [Resumen de clase](readmes/M3-class-4.md)
+- [Postgress - Documentación Oficial](https://www.postgresql.org/)
