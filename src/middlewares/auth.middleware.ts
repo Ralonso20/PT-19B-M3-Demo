@@ -1,4 +1,4 @@
-import { NextFunction, Request, Response } from 'express';
+import { Request, Response, NextFunction } from 'express';
 
 export const authMiddleware = (
   req: Request,
@@ -13,7 +13,7 @@ export const authMiddleware = (
   console.log(token);
   const tokenValue = token.split(' ')[1];
   console.log(tokenValue);
-  if (tokenValue !== 'open') {
+  if (tokenValue !== 'autenticado') {
     res.status(403).send('Forbidden');
     return;
   }
